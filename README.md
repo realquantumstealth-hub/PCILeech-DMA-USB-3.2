@@ -1,7 +1,7 @@
 # PCILeech-DMA-USB-3.2
 Quantumstealth open source USB-3.2 firmware.
 
-Quantumstealth discord:https://discord.gg/qstealth
+Quantumstealth discord:https://discord.gg/qslab
 
 ## For more engineering documents`pcileech_enigma_x1.srcs`,please contact me on discord.
 
